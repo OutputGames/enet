@@ -68,3 +68,6 @@ install_manifest.txt
 *.su
 *.idb
 *.pdb
+*.filters
+*.vcxproj
+*.user
